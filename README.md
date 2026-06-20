@@ -3,7 +3,7 @@
 
 | 原始界面 | 管理面板 |
 |:---:|:---:|
-| [![pmKWe0A.png](https://s41.ax1x.com/2026/06/11/pmKWe0A.png)](https://imgchr.com/i/pmKWe0A) | [![pmKrjUO.png](https://s41.ax1x.com/2026/06/11/pmKrjUO.png)](https://imgchr.com/i/pmKrjUO) |
+| <img width="2160" height="1266" alt="beautified-screenshot (1)" src="https://github.com/user-attachments/assets/f67fce48-2555-4c97-b3da-c04aa3236eac" /> | <img width="2160" height="1266" alt="beautified-screenshot (2)" src="https://github.com/user-attachments/assets/fa75e6df-eb27-4cbf-b538-2a7ee9dc8d9c" /> |
 
 ## 在线体验
 
